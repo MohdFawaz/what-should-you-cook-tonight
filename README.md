@@ -60,7 +60,7 @@ This project implements a recipe recommendation system by scraping data from [Sk
 project/
 │
 ├── code/
-│   └── recipe_recommendation.ipynb    # Main Colab notebook
+│   └── code (ipynb)    # Main Colab notebook
 │
 └── README.md                          # Project documentation
 ```
